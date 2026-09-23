@@ -1,0 +1,1 @@
+# scholarships app init
